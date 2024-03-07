@@ -42,3 +42,7 @@ $ flutter run
 
 ```
 
+after the app run, you can fill the credential demo for login with this:
+
+email: <b>admin@nadi.co.id</b><br/>
+password: <b>password</b>
